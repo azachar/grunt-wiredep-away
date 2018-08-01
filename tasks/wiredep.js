@@ -5,7 +5,7 @@ function wiredep(grunt) {
     this.requiresConfig(['wiredep', this.target, 'src']);
 
     var options = this.options(this.data);
-    require('wiredep')(options);
+    require('wiredep-away')(options);
   });
 }
 
