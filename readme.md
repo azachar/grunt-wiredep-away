@@ -7,7 +7,7 @@ Simplify the migration of bower to npm.
 
 To do this I forked from [grunt-wiredep](https://github.com/stephenplusplus/grunt-wiredep) and changed the
 dependencie of [wiredep](https://github.com/taptapship/wiredep) to
-[wiredep-away](https://github.com/johnnyasantoss/wiredep-away).
+[azachar/wiredep-away](https://github.com/azachar/wiredep-away).
 
 # Configuration
 To see funcionallity check this fork base.
